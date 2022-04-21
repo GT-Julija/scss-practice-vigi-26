@@ -1,0 +1,59 @@
+/* No CSS *//*# sourceMappingURL=style.css.map */
+ body {
+    background-color: #c7c9cac0;
+    font-family: Nunito Sans, sans-serif;
+    box-shadow: 2px grey;
+    height: 75px;
+}
+
+.pricing-list {
+    background-color: white;
+    display: flex;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 30px;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.a {
+     border-right: 2px solid #c7c9cac0;
+} 
+
+.price {
+    background-color: #f4f6fc;
+    font-weight: 300px;
+    font-size: 40px;
+    display: inline-block;
+    border-radius: 100px;
+    padding: 20px;
+    margin: 20px;
+}
+
+button {
+    background-color: white;
+    color: #303ca5;
+    padding: 8px 20px;
+    border-color: #303ca5;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    }
+
+button:hover {
+    background-color: #303ca5;
+    color: white;
+}
+
+.two {
+    font-size: 20px;
+    font-weight: 500px;
+    font-weight: bold;
+   
+}
+
+.three {
+    text-align: center;
+    color: grey;
+    font-size: small;
+}
